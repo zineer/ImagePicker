@@ -1,7 +1,7 @@
 cordova-imagePicker
 ===================
 
-Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above.
+Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above. Now supports Android 10 with AndroidX.
 
 ## Installing the plugin
 
@@ -9,13 +9,13 @@ The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova / Phonegap command line interface.
 
     # without desc
-    phonegap plugin add https://github.com/Telerik-Verified-Plugins/ImagePicker.git
-    cordova plugin add https://github.com/Telerik-Verified-Plugins/ImagePicker.git
+    phonegap plugin add https://github.com/Abilium-GmbH/ImagePicker.git
+    cordova plugin add https://github.com/Abilium-GmbH/ImagePicker.git
     
     # with desc
-    phonegap plugin add https://github.com/Telerik-Verified-Plugins/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    phonegap plugin add https://github.com/Abilium-GmbH/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
 
-    cordova plugin add https://github.com/Telerik-Verified-Plugins/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
+    cordova plugin add https://github.com/Abilium-GmbH/ImagePicker.git --variable PHOTO_LIBRARY_USAGE_DESCRIPTION="your usage message"
 
 
 ## Using the plugin
