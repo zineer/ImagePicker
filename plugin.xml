@@ -2,7 +2,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
   id="@abilium_gmbh/cordova-plugin-telerik-imagepicker-abilium"
-  version="2.3.7">
+  version="3.1.2">
 
     <name>ImagePicker</name>
 
